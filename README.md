@@ -8,5 +8,12 @@ During our class, we discussed how to calculate the n-th Fibonacci Number, denot
 1.
 Top-Down演算法( divide and conqure/ pure recursive)的時間複雜度是O(2^n)(嚴格來說是1.618^n)，因此運算時間會隨著n變大而指數成長，運算結果最終在運算F(56)時會超出12小時，所以圖表呈現F(1)到F(56)的結果。
 Bottom-up演算法(dynamic-programming-like)的運算時間基本都沒有太大的變化。
-![image]
-3.
+
+![image](https://github.com/weblee33/Algorithm-Assignment-2/blob/main/fibonacci_execution_time.png)
+
+
+2.
+使用top-down方式來計算F(4)被計算的次數。
+
+![image](https://github.com/weblee33/Algorithm-Assignment-2/blob/main/f4.png)
+
