@@ -13,7 +13,7 @@ Bottom-up演算法(dynamic-programming-like)的運算時間基本都沒有太大
 
 
 2.
-使用top-down方式來計算F(4)被計算的次數。
+使用top-down方式來計算從F(5)到F(50)的計算中，F(4)被計算的次數。
 
 ![image](https://github.com/weblee33/Algorithm-Assignment-2/blob/main/f4.png)
 
